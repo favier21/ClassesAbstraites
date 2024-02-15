@@ -1,0 +1,11 @@
+./src/games/genericgames/Game.java
+./src/games/genericgames/TicTacToe.java
+./src/games/genericgames/AbstractGame.java
+./src/games/genericgames/Nim.java
+./src/games/genericgames/Main.java
+./src/games/players/Player.java
+./src/games/players/Human.java
+./src/games/players/RandomPlayer.java
+./src/games/players/NegamaxPlayer.java
+./src/games/plays/Orchestrator.java
+
